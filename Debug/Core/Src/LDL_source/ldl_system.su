@@ -1,0 +1,3 @@
+ldl_system.c:32:9:LDL_System_rand	16	static
+ldl_system.c:40:9:LDL_System_getBatteryLevel	16	static
+ldl_system.c:48:10:LDL_System_advance	8	static

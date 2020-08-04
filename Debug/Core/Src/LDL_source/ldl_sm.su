@@ -1,0 +1,10 @@
+ldl_sm.c:44:6:LDL_SM_init	24	static
+ldl_sm.c:50:6:LDL_SM_setSession	16	static
+ldl_sm.c:55:6:LDL_SM_getSession	16	static
+ldl_sm.c:61:6:LDL_SM_beginUpdateSessionKey	16	static
+ldl_sm.c:68:6:LDL_SM_endUpdateSessionKey	16	static
+ldl_sm.c:75:6:LDL_SM_updateSessionKey	280	static
+ldl_sm.c:102:10:LDL_SM_mic	328	static
+ldl_sm.c:130:6:LDL_SM_ecb	280	static
+ldl_sm.c:140:6:LDL_SM_ctr	288	static
+ldl_sm.c:151:14:getKey	16	static

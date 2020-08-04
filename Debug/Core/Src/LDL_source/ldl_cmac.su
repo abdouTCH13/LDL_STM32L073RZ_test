@@ -1,0 +1,5 @@
+ldl_cmac.c:58:6:LDL_CMAC_init	16	static
+ldl_cmac.c:67:6:LDL_CMAC_update	40	static
+ldl_cmac.c:119:6:LDL_CMAC_finish	112	static
+ldl_cmac.c:182:13:leftShift128	40	static
+ldl_cmac.c:204:13:xor128	16	static

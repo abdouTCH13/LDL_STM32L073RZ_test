@@ -1,0 +1,4 @@
+debug.c:13:1:__io_putchar	16	static
+debug.c:22:6:initialize	8	static
+debug.c:40:6:HAL_UART_MspInit	56	static
+debug.c:79:6:HAL_UART_MspDeInit	16	static

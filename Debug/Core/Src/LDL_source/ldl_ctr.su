@@ -1,0 +1,2 @@
+ldl_ctr.c:34:6:LDL_CTR_encrypt	104	static
+ldl_ctr.c:82:13:xor128	16	static

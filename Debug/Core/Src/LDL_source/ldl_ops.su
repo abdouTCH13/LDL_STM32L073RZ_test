@@ -1,0 +1,14 @@
+ldl_ops.c:50:6:LDL_OPS_syncDownCounter	24	static
+ldl_ops.c:68:6:LDL_OPS_deriveKeys	48	static
+ldl_ops.c:149:9:LDL_OPS_prepareData	72	static
+ldl_ops.c:181:6:LDL_OPS_micDataFrame	96	static
+ldl_ops.c:205:9:LDL_OPS_prepareJoinRequest	48	static
+ldl_ops.c:219:6:LDL_OPS_receiveFrame	112	static
+ldl_ops.c:383:13:initA	40	static
+ldl_ops.c:397:13:initB	32	static
+ldl_ops.c:413:17:deriveDownCounter	24	static
+ldl_ops.c:431:16:putEUI	16	static
+ldl_ops.c:445:16:putU8	16	static
+ldl_ops.c:452:16:putU16	16	static
+ldl_ops.c:460:16:putU24	16	static
+ldl_ops.c:469:16:putU32	16	static
